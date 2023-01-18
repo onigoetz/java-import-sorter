@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "target": "es2020",
+    "module": "CommonJS",
+    "baseUrl": "src",
+    "strict": true,
+    "allowJs": true,
+    "esModuleInterop": true,
+    "noImplicitThis": false,
+    "moduleResolution": "node"
+  },
+  "include": ["src", "test", "tsconfig.json"]
+}
